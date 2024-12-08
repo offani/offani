@@ -1,4 +1,4 @@
-<[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&random=true&width=500&lines=Hi%2C+I'm+Aniketh+Gaonkar;Welcome+To+My+Github+Profile)](https://git.io/typing-svg)>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&random=true&width=500&lines=Hi%2C+I'm+Aniketh+Gaonkar;Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
 
 # 💫 About Me:
 I am a Python Developer currently working on GenAI-based applications. Passionate about AI, data-driven solutions, and building scalable systems.
